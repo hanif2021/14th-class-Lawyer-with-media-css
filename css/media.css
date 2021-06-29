@@ -1,0 +1,292 @@
+@media(min-width:0px) and (max-width:991px){
+    .banner h1 {
+        font-size: 36px;
+        margin-top: 33px;
+    }
+    .what_we_do {
+        background-size: 530px;
+    }
+    .description h1 {
+
+        font-size: 23px;
+    }
+       
+}
+@media(min-width:0px) and (max-width:767px){
+    .navbar-light .navbar-brand {
+        width: 27%;
+    }
+    .navbar-light .navbar-toggler {
+        border-color: rgb(230 91 37);
+        font-size: 18px;
+    }
+    .banner h1 {
+        font-size: 56px;
+      
+    }
+    .heading h1 {
+        font-size: 26px;
+    }
+    .who_we_are p {
+        
+        font-size: 15px;
+    }
+    .who_we_are img {
+        margin-top: 70px;
+    }
+    .what_we_do {
+        background-size: 409px;
+    }
+    .heading_two h1 {
+        font-size: 28px;
+    }
+    .title h1 {
+        font-size: 19px;
+    }
+    .image:hover .errow {
+        font-size: 24px;
+        top: 82%;
+    }
+    .heading_three h1 {
+        font-size: 26px;
+    }
+    .btn-seemore {
+        font-size: 15px;
+        font-weight:normal ;
+    }
+    p {
+        margin-top:15px;
+        margin-bottom: 1rem;
+        font-size: 14px;
+    }
+    .title_oa h1 {
+        font-weight: 700;
+        font-size: 18px;
+    }
+    .description h1 {
+        font-size: 17px;
+        font-weight: normal;
+    }
+    .btn-readmore {
+        font-weight: 600;
+        font-size: 13px;
+    }
+    p {
+      letter-spacing: 1px;
+        font-size: 15px;
+    }
+    a {
+    
+        margin-left: 5px;
+    }
+}
+@media(min-width:0px) and (max-width:575px){
+    .navbar-nav {
+        text-align: center;
+    }
+    .navbar-light .navbar-toggler {
+        border-color: #e76128;
+    }
+    .banner h1 {
+        font-size: 52px;
+        margin-top: 0px;
+        
+    }
+    .who_we_are p {
+        font-size: 13px;
+    }
+    .heading h1 {
+        font-size: 28px;
+    }
+    .who_we_are img {
+        margin-top: 70px;
+
+    }
+    .heading_two h1 {
+        color: #33417c;
+        font-size: 28px;
+    }
+    .what_we_do {
+        background-size: 383px;
+    }
+    .title h1 {
+        font-size: 20px;
+    }
+    .image:hover .errow {
+        left: 40%;
+    }
+    .errow {
+        font-size: 25px;
+      
+    }
+    .our_attorney p {
+        font-size: 13px;
+    }
+    .btn-seemore {
+        font-size: 14px;
+    }
+    .heading_three h1 {
+        font-size: 26px;
+    }
+    .description h1 {
+        font-size: 17px;
+    }
+    .description p {
+        font-size: 13px;
+    }
+    .btn-readmore {
+        font-size: 14px;
+    }
+    .title_oa h1 {
+        font-size: 17px;
+    }
+    .heading_three h1 {
+        font-size: 24px;
+    }
+    .heading_two h1 {
+        font-size: 24px;
+    }
+    .contract_us form {
+        width: 80%;
+    }
+    .contract_us form textarea {
+        margin-left: 50px;
+        font-size: 14px;
+    }
+    .contract_us form input {
+        margin-left: 50px;
+        font-size: 14px;
+    }
+    .ftext {
+        letter-spacing: 1px;
+    }
+    .ficon i {
+        margin-left: 10px;
+    }
+}
+@media(min-width:0px) and (max-width:425px){
+    .navbar-light .navbar-toggler {
+        font-size: 14px;
+    }
+    .img-fluid {
+        max-width: 75%;
+    }
+    .banner h1 {
+        font-size: 40px;
+       
+    }
+    .who_we_are img {
+        
+    }
+    .heading h1 {
+        font-size: 20px;
+    }
+    .heading_two h1 {
+        font-size: 20px;
+    }
+    .img-fluid {
+        max-width: 100%;
+    }
+    .what_we_do {
+        background-size: 294px;
+    }
+    .title h1 {
+        font-size: 15px;
+    }
+    .image:hover .errow {
+        font-size: 20px;
+    }
+    .heading_three h1 {
+        font-size: 18px;
+    }
+    .our_attorney p {
+        font-size: 12px;
+    }
+    .btn-seemore {
+        font-size: 13px;
+    }
+    .description h1 {
+        font-size: 14px;
+    }
+    .description p {
+        font-size: 10px;
+    }
+    .btn-readmore {
+        font-size: 8px;
+        font-weight: 700;
+    }
+    .description p {
+        font-size: 10px;
+        font-weight: 500;
+    }
+    .ftext {
+        font-size: 14px;
+    }
+    .ficon {
+        font-size: 15px;
+    }
+    .contract_us form textarea {
+        
+        margin-bottom: 4px;
+  
+    }
+    .contract_us form input[type=submit] {
+        width: 80px;
+        height: 30px;
+    }
+}
+@media(min-width:0px) and (max-width:375px){
+    .navbar-light .navbar-brand {
+        width: 35%;
+    }
+    .banner h1 {
+        font-size: 36px;
+    }
+    .image {
+        position: relative;
+        padding-top: 30px;
+        width: 113%;
+    }
+    .what_we_do {
+        background-size: 265px;
+    }
+    .title_oa h1 {
+        font-size: 12px;
+    }
+    .description h1 {
+        font-size: 12px;
+        font-weight: 700;
+    }
+    .ftext {
+        font-size: 11px;
+    }
+    .ficon {
+        font-size: 13px;
+    }
+}
+@media(min-width:0px) and (max-width:320px){
+    .navbar-light .navbar-toggler {
+        font-size: 12px;
+    }
+    .banner h1 {
+        font-size: 32px;
+    }
+    .banner {
+       
+        min-height: 66vh;
+       
+    }
+    .title_oa h1 {
+        font-size: 9px;
+    }
+    .heading_three h1 {
+        font-size: 14px;
+    }
+    .description h1 {
+        font-size: 10px;
+        font-weight: 700;
+    }
+    .ftext {
+        font-size: 8px;
+    }
+}
